@@ -27,12 +27,15 @@
 }
 
 /* spacing on all sections */
-/* #about, #services, #portfolio, #contact {
+/* #about, #services, #portfolio, #contact, #follow us on social media {
     margin-top: 4rem;
     padding-top: 4rem;
 } */
 #contact {
     padding-bottom: 4rem;
+}
+#follow us on social media {
+    padding-bottom: 1rem;
 }
 /* about section image css */
 .imageAboutPage {
